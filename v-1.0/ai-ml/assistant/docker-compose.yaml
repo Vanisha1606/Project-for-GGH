@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
   mongo:
-    image: mongo:latest
+    image: mongo: latest
     container_name: mongo
     environment:
       MONGO_INITDB_ROOT_USERNAME: admin
