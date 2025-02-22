@@ -3,7 +3,6 @@ from pydantic import ValidationError
 from datetime import datetime
 from bson import ObjectId
 
-# Import the models (assuming the previous code is in a module named `models`)
 from models import PatientHistoryData
 
 def load_patient_data(file_path: str) -> dict:
