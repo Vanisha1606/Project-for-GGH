@@ -1,7 +1,7 @@
-# Decentralized Clinic App
+# Health Care Application
 
 ## Overview
-The **Decentralized Clinic App** is a Web3 platform designed to connect patients and doctors while ensuring privacy, security, and transparency through the power of blockchain technology. The app offers decentralized identity management, secure and immutable prescriptions, AI-powered doctor searches, and more, all facilitated using our custom **HTK token**. Our goal is to revolutionize the healthcare space by offering trustless, transparent interactions between patients and healthcare professionals.
+The **Health Care Application** is a Web3 platform designed to connect patients and doctors while ensuring privacy, security, and transparency through the power of blockchain technology. The app offers decentralized identity management, secure and immutable prescriptions, AI-powered doctor searches, and more, all facilitated using our custom **HTK token**. Our goal is to revolutionize the healthcare space by offering trustless, transparent interactions between patients and healthcare professionals.
 
 ## Challenges in Traditional Healthcare Systems
 ### **Data Privacy Concerns**
