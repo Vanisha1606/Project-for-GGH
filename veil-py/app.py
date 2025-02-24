@@ -34,6 +34,7 @@ def verify_cert():
     else:
         return {"verified": False}
     
+    
 @app.route("/get_recommendation", methods=["POST"])
 def get_recommendation():
     data = request.get_json()
